@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 681d9f8778324ab4aaa062131c246b02
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - F-Zero GX Venue Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6951623d825f09478fa615b9814be7b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
