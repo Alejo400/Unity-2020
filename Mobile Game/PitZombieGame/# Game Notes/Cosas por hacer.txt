@@ -1,7 +1,0 @@
-1) Destruir todos los items hijos de items manager cuando ocurra el gameover
-   y reiniciar el contar de brains + aparecer nuevamente los brains
-
-2) Efecto y sonido al dar en enemigos
-3) Efecto y sonido al dar en municiones
-
-
